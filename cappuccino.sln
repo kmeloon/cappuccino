@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cappuccino", "cappuccino\cappuccino.csproj", "{CDBAC77A-B90F-4B04-B932-D1E73C5B3FCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDBAC77A-B90F-4B04-B932-D1E73C5B3FCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDBAC77A-B90F-4B04-B932-D1E73C5B3FCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDBAC77A-B90F-4B04-B932-D1E73C5B3FCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDBAC77A-B90F-4B04-B932-D1E73C5B3FCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDC56E6F-5611-44DD-9530-49358DF6038E}
+	EndGlobalSection
+EndGlobal
